@@ -1,0 +1,6 @@
+{
+  "prompt": "Generate an image showing groups of arrows clustered together, each group pointing upward, but all clusters together forming a large arrow pointing downward. The contradiction between the local directions and the overall direction should feel uncanny. Clean, geometric, no text or labels.",
+  "model": "NanoBanana (AI Studio)",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "Local arrow groups all point upward, but the entire composition forms a larger arrow pointing downward, creating a contradiction."
+}
