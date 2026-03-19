@@ -1,0 +1,8 @@
+{
+  "prompt": "Create an image of a mountainous landscape in the style of Japanese ukiyo-e woodblock prints (Edo period). The terrain should consist of layered hills and valleys, with a clear visual path descending step-by-step from a high peak to the lowest valley. The path should subtly zigzag downward, suggesting iterative movement toward a minimum. Use flat areas of unmodulated color, visible woodblock texture, strong contour lines, and a limited palette of indigo, muted green, and beige. Composition should use diagonal flow and asymmetry typical of ukiyo-e. No text, no numbers, no modern elements.",
+  "model": "NanoBanana (AI Studio)",
+  "concept": "Gradient Descent",
+  "tradition_name": "Japanese Ukiyo-e Woodblock Prints",
+  "tradition_period": "Edo period (1603–1868)",
+  "tradition_approach": "Flat color blocks, bold contour lines, diagonal composition, asymmetry, and limited indigo palette to authentically mimic ukiyo-e while mapping descent path to optimization."
+}
