@@ -1,0 +1,7 @@
+{
+  "prompt": "Create a highly realistic physical scene of a tailor shop where a craftsman has made a suit that perfectly fits a very irregular, twisted mannequin with unnatural bumps and distortions. The suit matches every tiny imperfection exactly. Nearby, a normal human figure tries to wear the suit, but it fits terribly and looks completely wrong. The environment should be natural, photographic, and believable, with detailed textures, soft lighting, and no text, no labels, no symbols, no abstract elements.",
+  "model": "NanoBanana (AI Studio)",
+  "dataset_name": "Synthetic Training vs Real-world Generalization Scenario",
+  "dataset_url": "https://en.wikipedia.org/wiki/Overfitting",
+  "insight": "A model that fits every detail of training data fails to generalize to normal real-world cases."
+}
